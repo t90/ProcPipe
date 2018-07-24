@@ -1,0 +1,9 @@
+*.exe
+Debug
+packages
+obj
+bin
+*.dll
+*.pdb
+.idea
+*.user
